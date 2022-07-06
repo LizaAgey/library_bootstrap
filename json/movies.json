@@ -1,0 +1,38 @@
+[{
+    "name": "Léon: The Professional",
+    "poster": "./img/Leon-poster.jpg",
+    "wiki": "https://en.wikipedia.org/wiki/L%C3%A9on:_The_Professional"
+
+}, {
+    "name": "Donnie Darko",
+    "poster": "./img/donni-darko_2728.jpg",
+    "wiki": "https://en.wikipedia.org/wiki/Donnie_Darko"
+}, {
+    "name": "Knight of Cups",
+    "poster": "./img/Knight_of_Cups.jpg",
+    "wiki": "https://en.wikipedia.org/wiki/Knight_of_Cups_(film)"
+}, {
+    "name": "Howl's Moving Castle",
+    "poster": "./img/Howl's Moving Castle.jpg",
+    "wiki": "https://en.wikipedia.org/wiki/Howl%27s_Moving_Castle_(film)"
+}, {
+    "name": "American Psycho",
+    "poster": "./img/american psycho.jpg",
+    "wiki": "https://en.wikipedia.org/wiki/American_Psycho_(film)"
+}, {
+    "name": "Malavita",
+    "poster": "./img/malavita.jpg",
+    "wiki": "https://en.wikipedia.org/wiki/The_Family_(2013_film)"
+}, {
+    "name": "The Game",
+    "poster": "./img/the game.jpg",
+    "wiki": "https://en.wikipedia.org/wiki/The_Game_(1997_film)"
+}, {
+    "name": "Blow",
+    "poster": "./img/blow.jpg",
+    "wiki": "https://en.wikipedia.org/wiki/Blow_(film)"
+}, {
+    "name": "What's Eating Gilbert Grape",
+    "poster": "./img/What's Eating Gilbert Grape.jpg",
+    "wiki": "https://en.wikipedia.org/wiki/What%27s_Eating_Gilbert_Grape"
+}]
